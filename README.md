@@ -1,4 +1,4 @@
-## CS107E Punchthingy [better title indefinitely TBD]: a bare-metal haptic shadowboxing game
+## CS107E Punchthingy (better title indefinitely TBD): a bare-metal haptic shadowboxing game
 
 A Raspberry Pi game that measures how fast and how straight you punch. Built with Emma Cruz as the final project for Stanford's CS107E (Computer Systems from the Ground Up), Fall 2022, in ~10 days during finals, on a $25 parts budget.
 
@@ -8,7 +8,7 @@ Hardware: a Pololu LSM6DS33 IMU (accelerometer, ±16g) over I2C, mounted on a bo
 
 Demo (2.5 minutes): https://lnkd.in/p/gkC_hDPg
 
-## Description [how to play]
+## Description (how to play)
 
 Put on the glove, type start, enter your name, and throw a straight right at the end of the countdown. The game reports your peak acceleration, tells you whether you made the leaderboard, and can show velocity-vs-time and acceleration-vs-time plots plus a "straightness" score. The leaderboard persists across reboots on the Pi's SD card.
 
