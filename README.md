@@ -6,7 +6,7 @@ No operating system and no standard library. Everything runs bare-metal on the P
 
 Hardware: a Pololu LSM6DS33 IMU (accelerometer, ±16g) over I2C, mounted on a borrowed sparring glove; a PS/2 keyboard; HDMI out; the SD card for persistence.
 
-Demo (one minute): https://lnkd.in/p/gkC_hDPg
+Demo (2.5 minutes): https://lnkd.in/p/gkC_hDPg
 
 ## Description [how to play]
 
